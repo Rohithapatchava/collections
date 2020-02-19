@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\collections\collections\bin\Debug\collections.exe.config
+D:\Rohitha\c sharp\collections\collections\bin\Debug\collections.exe
+D:\Rohitha\c sharp\collections\collections\bin\Debug\collections.pdb
+D:\Rohitha\c sharp\collections\collections\obj\Debug\collections.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\collections\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\collections\collections\obj\Debug\collections.exe
+D:\Rohitha\c sharp\collections\collections\obj\Debug\collections.pdb
